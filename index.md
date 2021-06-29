@@ -31,5 +31,5 @@ Benedict received the British Council’s IELTS scholarship to pursue a Bachelor
 > * [Written work 1](https://github.com/benedicttjc/Resume/blob/8f376da75f0de1134f2fc75eb0996f851002420c/LLM%20-%20AJ%20Essay.pdf)
 > * [Written work 2](https://github.com/benedicttjc/Resume/blob/316f88178b374324924c6094d5b3f0108dc5e940/LLM%20-%20Dissertation.pdf)
 
-### Sample Works
-> * **Skills**: Corporate finance
+* * *
+I intentionally left out the details to my work and education (And hobbies as well!) so I can share them with you via a chat! Do email me!
