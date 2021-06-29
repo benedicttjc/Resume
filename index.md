@@ -19,6 +19,7 @@ Benedict received the British Council’s IELTS scholarship to pursue a Bachelor
 > * **Corporate Finance Law Intern**; _Rajah and Tann LLP_ (2016)
 > * **Credit Recovery Officer**; _Bank of China_ (2014)
 > * **Pro Bono Volunteer**; _Law Society (Singapore)_ (2014)
+> * **Litigation Intern**; _Justicius Law Corporation_ (2014)
 > * **Section Commander**; _Singapore Armed Forces_ (2012-2013)
 
 * * *
