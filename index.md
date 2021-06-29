@@ -8,9 +8,9 @@ Benedict received the British Council’s IELTS scholarship to pursue a Bachelor
 
 * * *
 ### Work Experience
-> * Corporate Actions Trainee Analyst; _Schroders_ (2020-2021)
-> * Corporate Law Postgraduate Researcher; _University of Southampton_ (2019-2020)
-> * Law Tutor; _University of Winchester_ (2020)
+> * **Corporate Actions Trainee Analyst**; _Schroders_ (2020-2021)
+> * **Corporate Law Postgraduate Researcher**; _University of Southampton_ (2019-2020)
+> * **Law Tutor**; _University of Winchester_ (2020)
 > * Data Analyst (Student data); _University of Southampton_ (2019-2020)
 > * Junior research Associate; _National University of Singapore_ (2019)
 > * Corporate Law Intern; _Shook Lin & Bok_ (2019)
