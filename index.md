@@ -29,4 +29,5 @@ Benedict received the British Council’s IELTS scholarship to pursue a Bachelor
 
 * * *
 ### Sample works
-[Written work 1](https://github.com/benedicttjc/Resume/blob/8f376da75f0de1134f2fc75eb0996f851002420c/LLM%20-%20AJ%20Essay.pdf)
+> * [Written work 1](https://github.com/benedicttjc/Resume/blob/8f376da75f0de1134f2fc75eb0996f851002420c/LLM%20-%20AJ%20Essay.pdf)
+> * 
