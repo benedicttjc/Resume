@@ -26,3 +26,7 @@ Benedict received the British Council’s IELTS scholarship to pursue a Bachelor
 ### Education
 > * **Masters of Corporate Law**; University College London (2017-2018)
 > * **Bachelors of Law**; University of Leicester (2014-2017)
+
+* * *
+### Sample works
+[Written work 1](https://github.com/benedicttjc/Resume/blob/8f376da75f0de1134f2fc75eb0996f851002420c/LLM%20-%20AJ%20Essay.pdf)
