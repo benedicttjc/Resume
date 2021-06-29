@@ -7,6 +7,6 @@ Benedict received the British Council’s IELTS scholarship to pursue a Bachelor
 
 * * *
 ### Work Experience
-* Test
+* Corporate Actions Trainee Analyst | Schroders | 2020-2021
 * Test
 * Test
