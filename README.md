@@ -1,1 +1,2 @@
-# Hi! This is Benedict's resume!
+# Benedict Tan' Resume
+##Hi! This is Benedict's resume!
