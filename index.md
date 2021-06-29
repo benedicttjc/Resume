@@ -17,3 +17,8 @@ Benedict received the British Council’s IELTS scholarship to pursue a Bachelor
 > * **Corporate Arbitration Intern**; _Oon & Bazul LLP_ (2016)
 > * **Corporate Finance Law Intern**; _Rajah and Tann LLP_ (2016)
 > * **Section Commander**; _Singapore Armed Forces_ (2012-2013)
+
+* * *
+### Education
+> * **Masters of Corporate Law**; University College London (2017-2018)
+> * **Bachelors of Law**; University of Leicester (2014-2017)
