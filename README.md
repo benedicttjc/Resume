@@ -1,3 +1,6 @@
+# Hi! Benedict here 
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/benedicttjc/Resume_29062021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
