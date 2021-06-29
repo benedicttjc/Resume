@@ -32,5 +32,5 @@ Benedict received the British Council’s IELTS scholarship to pursue a Bachelor
 > * [Written work 2](https://github.com/benedicttjc/Resume/blob/316f88178b374324924c6094d5b3f0108dc5e940/LLM%20-%20Dissertation.pdf)
 
 * * *
-I intentionally left out the details to my work and education (And hobbies as well!) so I can share them with you via a chat! Do email me! Cheers!
+I intentionally left out the details to my work and education (And hobbies as well!) so I can share them with you via a chat! Do email me (Benedicttjc@gmail.com)! Cheers!
 -Benedict
