@@ -31,6 +31,7 @@ Benedict received the British Council’s IELTS scholarship to pursue a Bachelor
 ### Sample Works
 > * [Written work 1](https://github.com/benedicttjc/Resume/raw/70b0dbf934e56fe0315f752b3a94e1f44965de86/Works/Brexit%E2%80%99s%20Influence%20on%20UK%E2%80%99s%20Corporate%20Takeover%20Defences%20(LLM%20Thesis%2C%20Unpublished).pdf)
 > * [Written work 2](https://github.com/benedicttjc/Resume/raw/gh-pages/Works/Access%20to%20Justice%20in%20Theory%20and%20Practice%20-%20Short%20Essay%20(LLM%20Exam%2C%20Unpublished).pdf)
+> * [Written work 2](https://github.com/benedicttjc/Resume/raw/gh-pages/Works/Trust%20-%20Short%20Essays%20(LLM%20Exam%2C%20Unpublished).pdf)
 
 * * *
 I intentionally left out the details to my work and education (And hobbies as well!) so I can share them with you via a chat! Do email me (Benedicttjc@gmail.com)! Cheers!
