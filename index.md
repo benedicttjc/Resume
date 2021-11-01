@@ -9,9 +9,9 @@ Benedict received the British Council’s IELTS scholarship to pursue a Bachelor
 * * *
 | Experience  |                             |          |
 |-------------|-----------------------------|----------|
-| **Argus Media** | _Market Reporter (Crude oil)_ | Oct 2021 - Present|
-| **National University of Singapore** | _FinTech Senior Developer Trainee_ | Feb 2021 - Sep 2021 |
-| **Schroders Investment Management (Singapore)** | __Corporate Actions Analyst Trainee__ | Sep 2020 - Feb 2021 |
+| __Argus Media__ | _Market Reporter (Crude oil)_ | Oct 2021 - Present|
+| __National University of Singapore__ | _FinTech Senior Developer Trainee_ | Feb 2021 - Sep 2021 |
+| __Schroders Investment Management (Singapore)__ | _Corporate Actions Analyst Trainee_ | Sep 2020 - Feb 2021 |
 |             |                             |          |
 |             |                             |          |
 |             |                             |          |
