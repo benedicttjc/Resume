@@ -29,8 +29,8 @@ Benedict holds a Master of Corporate Law from UCL and a Bachelor of Laws from th
 
 * * *
 ### Education
-> * **Masters of Corporate Law**; University College London (2017-2018)
-> * **Bachelors of Law**; University of Leicester (2014-2017)
+> - __Masters of Corporate Law__ / University College London / 2017-2018
+> - __Bachelors of Law__ / University of Leicester / 2014-2017
 
 * * *
 ### Sample Works
