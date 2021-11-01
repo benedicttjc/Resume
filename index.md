@@ -19,15 +19,13 @@ Benedict holds a Master of Corporate Law from UCL and a Bachelor of Laws from th
 > - __University of Southampton__ / _Student Procurement Officer_ / Dec 19 - Jun 20
 > - __University of Wincehster__ / _Law Tutor_ / Feb 20 - Jun 20
 > - __National University of Singapore__ / _Junior Researcher_ May 19 - Sep 19
-> * **Corporate Law Intern**; _Shook Lin & Bok_ (2019)
-> * **Corporate Arbitration Intern**; _Oon & Bazul LLP_ (2016)
-> * **Corporate Finance Law Intern**; _Rajah and Tann LLP_ (2016)
-> * **Credit Recovery Officer**; _Bank of China_ (2014)
-> * **Pro Bono Volunteer**; _Law Society (Singapore)_ (2014)
-> * **Litigation Intern**; _Justicius Law Corporation_ (2014)
-> * **Section Commander**; _Singapore Armed Forces_ (2012-2013)
-
-
+> - __Shook Lin & Bok__ / _Corporate Law Intern_ / Sep 19
+> - __Oon & Bazul__ / _Corporate Arbitration Intern_ / Aug 16
+> - __Rajah and Tann__ / _Corporate Finance Law Intern_ / Jul 16
+> - __Bank of China__ / _Credit Recovery Officer_ / Jan 14 - Mar 14
+> - __Justicius Law Corporation__ / _Litigation Intern_ / Jan 14
+> - __Law Society (Singapore)__ / _Pro Bono Volunteer_ / Dec 13
+> - __Singapore Armed Forces__ / _Section Commander_ / Feb 12 - Nov 13
 
 * * *
 ### Education
