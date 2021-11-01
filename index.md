@@ -9,9 +9,10 @@ Benedict received the British Council’s IELTS scholarship to pursue a Bachelor
 * * *
 ### Experience
 
+
 | Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
+| :---        | :---        |          ---: |
+| Argus Media | Market Reporter (Crude Oil)       | Here's this   |
 | Paragraph   | Text        | And more      |
 
 
