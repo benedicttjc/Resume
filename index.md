@@ -15,6 +15,7 @@ Benedict holds a Master of Corporate Law from UCL and a Bachelor of Laws from th
 > - __Schroders Investment Management__ / _Corporate Actions Analyst Trainee_ / Sep 20 - Feb 21
 > - __Anfiva Pte Ltd__ / _Regulatory Consultant_ / Jul 20 - Sep 20
 > - __University of Southampton__  / _Postgraduate Researcher (PhD)_ / Sep 19 - Jun 20
+>     - Presidential Scholarship
 > - __University of Southampton__ / _Student Procurement Officer_ / Dec 19 - Jun 20
 > - __University of Wincehster__ / _Law Tutor_ / Feb 20 - Jun 20
 > - __National University of Singapore__ / _Junior Researcher_ May 19 - Sep 19
@@ -26,7 +27,7 @@ Benedict holds a Master of Corporate Law from UCL and a Bachelor of Laws from th
 > * **Litigation Intern**; _Justicius Law Corporation_ (2014)
 > * **Section Commander**; _Singapore Armed Forces_ (2012-2013)
 
->     - Test
+
 
 * * *
 ### Education
