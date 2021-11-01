@@ -11,7 +11,6 @@ Benedict received the British Council’s IELTS scholarship to pursue a Bachelor
 ### Professional Experience
 
 > - __Argus Media__; _Market Reporter (Crude oil)_; Oct '21 - Present
->     - Test
 > - __National University of Singapore__; _FinTech Senior Developer Trainee_; Feb '21 - Sep '21
 > * __Schroders Investment Management__; _Corporate Actions Analyst Trainee_; Sep '20 - Feb '21
 > 
@@ -29,6 +28,8 @@ Benedict received the British Council’s IELTS scholarship to pursue a Bachelor
 > * **Pro Bono Volunteer**; _Law Society (Singapore)_ (2014)
 > * **Litigation Intern**; _Justicius Law Corporation_ (2014)
 > * **Section Commander**; _Singapore Armed Forces_ (2012-2013)
+
+>     - Test
 
 * * *
 ### Education
