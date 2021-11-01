@@ -13,20 +13,9 @@ Benedict received the British Council’s IELTS scholarship to pursue a Bachelor
 > * __Argus Media__; _Market Reporter (Crude oil)_; Oct 2021 - Present
 > * __National University of Singapore__; _FinTech Senior Developer Trainee_; Feb 2021 - Sep 2021
 > * __Schroders Investment Management (Singapore)__; _Corporate Actions Analyst Trainee_; Sep 2020 - Feb 2021
->  
->   
->     | _Corporate Actions Analyst Trainee_        | Sep '20 - Feb '21      |
-|             |                             |          |
-|             |                             |          |
-|             |                             |          |
-|             |                             |          |
-|             |                             |          |
-|             |                             |          |
-|             |                             |          |
+> 
 
 
-> * **FinTech Trainee (Senior Developer)**; _National University of Singapore_ (2021)
-> * **Corporate Actions Trainee Analyst**; _Schroders_ (2020-2021)
 > * **AML/CFT Consultant**; _Anfiva Pte Ltd_ (2020)
 > * **Corporate Law Postgraduate Researcher**; _University of Southampton_ (2019-2020)
 > * **Law Tutor**; _University of Winchester_ (2020)
