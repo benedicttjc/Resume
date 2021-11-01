@@ -39,5 +39,5 @@ Benedict holds a Master of Corporate Law from UCL and a Bachelor of Laws from th
 > * [Written work 3](https://github.com/benedicttjc/Resume/raw/gh-pages/Works/Trust%20-%20Short%20Essays%20(LLM%20Exam%2C%20Unpublished).pdf)
 
 * * *
-I intentionally left out the details to my work and education so that I may personally share them with you via a chat! Do e-mail me at Benedicttjc@gmail.com to arrange for a chat!
+The details to my work and education were intentionally left out so that I may personally share them with you via a chat! Do e-mail me at Benedicttjc@gmail.com to arrange!
 -Benedict
