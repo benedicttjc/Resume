@@ -14,8 +14,8 @@ Benedict holds a Master of Corporate Law from UCL and a Bachelor of Laws from th
 > - __National University of Singapore__ / _FinTech Senior Developer Trainee_ / Feb 21 - Sep 21
 > - __Schroders Investment Management__ / _Corporate Actions Analyst Trainee_ / Sep 20 - Feb 21
 > - __Anfiva Pte Ltd__ / _Regulatory Consultant_ / Jul 20 - Sep 20
-> - __University of Southampton__  / _Postgraduate Researcher (PhD)_ / (Sep 19- Jun 20)
-
+> - __University of Southampton__  / _Postgraduate Researcher (PhD)_ / Sep 19 - Jun 20
+> - __University of Wincehster__ / _Law Tutor_ / Jan 20 - Jun 20
 
 > * **Law Tutor**; _University of Winchester_ (2020)
 > * **Data Analyst (Student data)**; _University of Southampton_ (2019-2020)
