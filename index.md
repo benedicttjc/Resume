@@ -7,9 +7,6 @@
 Benedict received the British Council’s IELTS scholarship to pursue a Bachelor of Laws at the University of Leicester, and later attained a Masters of corporate law from UCL. Benedict then undertook a research stint at the National University of Singapore before being awarded University of Southampton's Presidential Scholarship to do his PhD. Due to the Covid-19 pandemic, Benedict was unable to complete his thesis, and has since been upskilling himself in finance and technology through sponsored training from the Institute of Banking and Finance and the National University of Singapore respectively. Benedict now seeks a career in consulting where he can apply his excellent analytical skills and interdisciplinary knowledge.
 
 * * *
-### Experience
-
-
 | Experience  |                             |          |
 |-------------|-----------------------------|----------|
 | **Argus Media** | _Market Reporter (Crude oil)_ | Oct 2021 - Present|
@@ -24,9 +21,6 @@ Benedict received the British Council’s IELTS scholarship to pursue a Bachelor
 |             |                             |          |
 
 
-
-
-> * **Argus Media**; _Marker Reporter (Crude Oil)_ (2021)
 > * **FinTech Trainee (Senior Developer)**; _National University of Singapore_ (2021)
 > * **Corporate Actions Trainee Analyst**; _Schroders_ (2020-2021)
 > * **AML/CFT Consultant**; _Anfiva Pte Ltd_ (2020)
