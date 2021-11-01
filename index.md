@@ -4,9 +4,7 @@
 ### benedictTJC@gmail.com
 ### [Linkedin](https://www.linkedin.com/in/benedicttjc/)
 * * *
-Benedict attained his Masters of Corporate Law from UCL and his Bachelor of Laws from the University of Leicester.
-
-received British Council’s IELTS scholarship to pursue a Bachelor of Laws at the University of Leicester, and later attained a Masters of corporate law from UCL. Benedict then undertook a research stint at the National University of Singapore before being awarded University of Southampton's Presidential Scholarship to do his PhD. Due to the Covid-19 pandemic, Benedict was unable to complete his thesis, and has since been upskilling himself in finance and technology through sponsored training from the Institute of Banking and Finance and the National University of Singapore respectively. Benedict now seeks a career in consulting where he can apply his excellent analytical skills and interdisciplinary knowledge.
+Benedict holds a Master of Corporate Law from UCL and a Bachelor of Laws from the University of Leicester, attaining the latter as a British Council IELTS scholar. Graduating from law school, Benedict was recruited to study the effectiveness of Singapore Exchange's then novel mandatory sustainability reporting regime. Benedict's research abilities were recognised, and thus, he was conferred a Presidential Scholarship by the University of Southampton to pursue a PhD under the supervision of the renowned Professor, Brenda Hannigan. As a result of Covid-19 disruptions, Benedict returned to Singapore prior to completing his PhD. Benedict has since undertook training in finance and technology - from the Institute of Banking and Finance and the National University of Singapore - to enhance his analytical skills and interdisciplinary knowledge. Benedict is currently employed by the price reporting agency, Argus Media, and covers the Middle-East crude oil market. 
 
 * * *
 
