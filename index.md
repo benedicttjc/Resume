@@ -7,7 +7,8 @@
 Benedict received the British Council’s IELTS scholarship to pursue a Bachelor of Laws at the University of Leicester, and later attained a Masters of corporate law from UCL. Benedict then undertook a research stint at the National University of Singapore before being awarded University of Southampton's Presidential Scholarship to do his PhD. Due to the Covid-19 pandemic, Benedict was unable to complete his thesis, and has since been upskilling himself in finance and technology through sponsored training from the Institute of Banking and Finance and the National University of Singapore respectively. Benedict now seeks a career in consulting where he can apply his excellent analytical skills and interdisciplinary knowledge.
 
 * * *
-### Work Experience
+### Experience
+> * **FinTech Trainee (Senior Developer)**; _National University of Singapore_ (2021)
 > * **Corporate Actions Trainee Analyst**; _Schroders_ (2020-2021)
 > * **AML/CFT Consultant**; _Anfiva Pte Ltd_ (2020)
 > * **Corporate Law Postgraduate Researcher**; _University of Southampton_ (2019-2020)
