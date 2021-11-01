@@ -32,6 +32,11 @@ Benedict holds a Master of Corporate Law from UCL and a Bachelor of Laws from th
 > - __Bachelors of Law__ / _University of Leicester_ / 2014 - 2017
 
 * * *
+### Further Education
+> - __IBF Qualified – Level 1, Asset Management__ / _Institute of Banking and Finance, Singapore_ / 2021
+> - __Senior FinTech Developer - Level 3__ / _National University of Singapore_ / 2021
+
+* * *
 ### Scholarships
 > - __Presidential Scholarship__ / _University of Southampton_ / 2019
 > - __IELTS Scholarship__ / _British Council_ / 2014
