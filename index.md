@@ -8,6 +8,15 @@ Benedict received the British Council’s IELTS scholarship to pursue a Bachelor
 
 * * *
 ### Experience
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+
+
+
 > * **Argus Media**; _Marker Reporter (Crude Oil)_ (2021)
 > * **FinTech Trainee (Senior Developer)**; _National University of Singapore_ (2021)
 > * **Corporate Actions Trainee Analyst**; _Schroders_ (2020-2021)
