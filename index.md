@@ -9,7 +9,7 @@ Benedict received the British Council’s IELTS scholarship to pursue a Bachelor
 * * *
 ### Experience
 
-> * __Argus Media__; _Market Reporter (Crude oil)_; Oct 2021 - Present
+> * __Argus Media__; _Market Reporter (Crude oil)_; Oct 21 - Present
 
 
 
