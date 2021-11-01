@@ -49,7 +49,10 @@ Benedict holds a Master of Corporate Law from UCL and a Bachelor of Laws from th
 
 * * *
 ### Hobbies
-I enjoy web development (HTML; CSS; Javascript), and am a huge fan of Progressive Web Apps. I am a keen explorer, and at age 21, spent 5 months backpacking across 8 countries. Reading and writing is my passion - I have read most titles found in "top 100 fantasy book lists", and contributed to travel guidebooks. I enjoy analysing data and information, and outside of any professional research, I study population demographics, Singapore real estate, and equities (SGX, NYSE, NASDAQ). 
+> - I enjoy web development (HTML; CSS; Javascript), and am a huge fan of Progressive Web Apps. 
+> - I am a keen explorer, and at age 21, spent 5 months backpacking across 8 countries.
+> - Reading and writing is my passion - I have read most titles found in "top 100 fantasy book lists", and contributed to travel guidebooks.
+> - I enjoy analysing data and information, and outside of any professional research, I study population demographics, Singapore real estate, and equities (SGX, NYSE, NASDAQ).
 
 * * *
 The details to my work and education were intentionally left out so that I may personally share them with you via a chat! Do e-mail me at Benedicttjc@gmail.com to arrange!
