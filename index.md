@@ -48,5 +48,9 @@ Benedict holds a Master of Corporate Law from UCL and a Bachelor of Laws from th
 > * [Written work 3](https://github.com/benedicttjc/Resume/raw/gh-pages/Works/Trust%20-%20Short%20Essays%20(LLM%20Exam%2C%20Unpublished).pdf)
 
 * * *
+### Hobbies
+I enjoy web development (HTML; CSS; Javascript), and am a huge fan of Progressive Web Apps. I am a keen explorer, and at age 21, spent 5 months backpacking across 8 countries. Reading and writing is my passion - I have read most titles found in "top 100 fantasy book lists", and contributed to travel guidebooks. I enjoy analysing data and information, and outside of my professional research, I study population demographics, Singapore real estate, and equities (SGX, NYSE, NASDAQ). 
+
+* * *
 The details to my work and education were intentionally left out so that I may personally share them with you via a chat! Do e-mail me at Benedicttjc@gmail.com to arrange!
 -Benedict
